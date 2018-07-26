@@ -1,0 +1,7 @@
+a brief usage of the prelimitary huawei version of erofs.mkfs:
+
+erofs.mkfs [-zlz4hc] [-dX] [-hX] output.img indir
+options:
+  -zlz4hc   enable file compression with the lz4hc algorithm (default: no compression)
+  -dX       set the debugging message level
+  -hX       set the minimum reference count requirement of shared xattrs
