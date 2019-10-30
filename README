@@ -1,3 +1,8 @@
+It has been superseded by open source erofs-utils, see
+git://git.kernel.org/pub/scm/linux/kernel/git/xiang/erofs-utils.git
+
+This repo is just for archive only.
+
 a brief usage of the prelimitary huawei version of erofs.mkfs:
 
 erofs.mkfs [-zlz4hc] [-dX] [-hX] output.img indir
